@@ -49,7 +49,7 @@ System.out.println("ENTER YOUR " + "STRING HERE");
 
 will produce the same output i.e. ENTER YOUR STRING HERE
 
-Numbers may be used outside " " for the purpose of calculations. Otherwise like letters they must be place in " ".
+Numbers may be used outside " " for the purpose of calculations. Otherwise like letters they must be placed in " ".
 
 
 
